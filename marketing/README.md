@@ -6,16 +6,16 @@
 
 ## What this laboratory is
 
-This folder is the working bridge between the controlled brand/public-site sources and finished campaign releases. It compiles what the repository already knows, translates the nine SSOT marketing families into campaign operations, and supplies the documents and templates needed to plan, make, review, publish, measure, and retire work.
+This folder is a portable, self-contained marketing system. It includes its own controlled brand snapshot, expression layer, five campaign lenses, production records, social masters, and runnable landing page. It can be copied to another repository without a runtime or content dependency on its former parent repository.
 
-It is **standalone for campaign work**: a marketer can begin here, understand the brand, select a family and funnel job, build a brief, locate source material, create a production record, and run release review. Links to repository authorities remain as provenance and must be rechecked whenever exact public facts or copy are used.
+It is **standalone for campaign work**: a marketer can begin here, understand the brand, select an audience lens and funnel job, build a brief, create a production record, preview the campaign site, and run release review. Historical source paths are retained only as provenance in `source_library/`; they are not dependencies. The portable authority for new work is [`canon/BRAND_CANON.md`](canon/BRAND_CANON.md) and its paired JSON.
 
 ## Start here
 
 1. Read [Laboratory charter](LAB_CHARTER.md) for authority, status, and working rules.
-2. Read [Compiled campaign canon](canon/CAMPAIGN_CANON.md) before writing or designing.
-3. Choose an approach in [Nine-family playbook](canon/NINE_FAMILY_PLAYBOOK.md).
-4. Define the audience and journey with [Audience and journey guide](strategy/AUDIENCES_AND_JOURNEYS.md).
+2. Read the portable [Brand Canon](canon/BRAND_CANON.md) before writing or designing.
+3. Use the [Marketing Expression Layer](expression/MARKETING_EXPRESSION_LAYER.md) to trace truth through measurement.
+4. Choose one of the [five campaign lenses](campaigns/README.md) and a funnel job.
 5. Build the campaign in [Campaign architecture](strategy/CAMPAIGN_ARCHITECTURE.md) and choose placements in [Channel playbook](strategy/CHANNEL_PLAYBOOK.md).
 6. Plan copy and assets with [Content and asset system](production/CONTENT_AND_ASSET_SYSTEM.md).
 7. Follow [Production workflow](operations/PRODUCTION_AND_RELEASE.md) and [Measurement plan](operations/MEASUREMENT_AND_EXPERIMENTATION.md).
@@ -27,6 +27,10 @@ It is **standalone for campaign work**: a marketer can begin here, understand th
 | Area | Job |
 | --- | --- |
 | `canon/` | Compact campaign-facing canon and nine-family decision system |
+| `expression/` | Traceable Brand Truth → measurement model and 5×5 campaign matrix |
+| `campaigns/` | Five complete audience-lens briefs and shared campaign data |
+| `site/` | Dependency-free landing page with five campaign entry expressions |
+| `assets/social/` | Editable, scalable social master artwork for all five lenses |
 | `strategy/` | Audience journeys, campaign architecture, channels, and the current event starter plan |
 | `production/` | Copy, visual, asset, rights, accessibility, and deliverable planning |
 | `operations/` | Intake-to-release workflow, approvals, measurement, learning, and retirement |

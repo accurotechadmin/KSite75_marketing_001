@@ -1,6 +1,6 @@
 # Nine-Family Campaign Playbook
 
-This is the laboratory's compact operating version of the full family canon in `docs/website_style_look_feel_ssot_report.md`. Consult that source for the detailed rationale and guardrails.
+This is the portable option menu for expressive families. The complete rules required for campaign selection are contained here and in `BRAND_CANON.md`; no external source is required.
 
 | Family | Audience question | Promise | Signature composition | Best CTA mode | Primary risk |
 | --- | --- | --- | --- | --- | --- |

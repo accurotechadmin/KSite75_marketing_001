@@ -8,15 +8,14 @@ The laboratory exists to convert controlled Just One KISS identity into traceabl
 
 Use this precedence for campaign decisions:
 
-1. domain-specific controlled governance and conservative conflict handling;
-2. repository hierarchy in `README.md`;
-3. public creative authority in `docs/styleguide.md` and its paired JSON;
-4. active website canon in `proto/docs/website_ssot.md`;
-5. exact runtime public language in `proto/docs/language.json`;
-6. active templates, CSS, renderers, and approved public assets as implementation evidence;
-7. `docs/website_style_look_feel_ssot_report.md`, especially the expanded nine-family canon;
-8. existing campaign plans, inventories, prompts, mockups, and this laboratory as derived working material;
-9. empty compendium registries as future destinations, not fact authority.
+1. portable brand authority in `canon/BRAND_CANON.md` and paired JSON;
+2. the hierarchy and controls in this charter and `README.md`;
+3. the trace model in `expression/MARKETING_EXPRESSION_LAYER.md`;
+4. campaign canon, audience, funnel, and channel guidance inside this folder;
+5. approved campaign overlays and exact copy/fact records inside this folder;
+6. active templates, site code, and cleared assets as implementation evidence;
+7. historical paths in `source_library/` as provenance only, never runtime or claim authority;
+8. draft registers as working destinations, not fact authority.
 
 A lower layer may interpret a higher layer but may not silently alter it. When two sources conflict, pause the affected claim and use the more conservative rights, safety, privacy, or approval position.
 
