@@ -1,0 +1,27 @@
+{
+  "schema_version": "0.1.0-lab",
+  "document_id": "jok.marketing_lab.campaign_registry",
+  "status": "draft",
+  "visibility": "internal",
+  "authority_notice": "Working laboratory register; does not replace governed compendium records or approve public claims.",
+  "campaigns": [
+    {
+      "campaign_id": "JOK-2026EVENT-STARTER",
+      "title": "Current Event Starter Campaign",
+      "timeline_scope": "GEN",
+      "status": "draft",
+      "objective": "Build awareness, practical confidence, consented connection, and accurate sharing for the current public event.",
+      "audiences": ["theatrical_rock_fans", "curious_local_visitors", "families_and_sensitive_guests", "returning_participants"],
+      "funnel_stages": ["awareness", "interest", "consideration", "conversion", "retention_nurture"],
+      "family_strategy": ["arena_arrives", "shadow_to_fire", "love_letter_with_volume", "before_the_first_chord", "one_night_full_fire", "join_the_rally", "open_the_road_case"],
+      "source_brief": "marketing/strategy/CURRENT_EVENT_STARTER_CAMPAIGN.md",
+      "fact_status": "requires_release_time_verification",
+      "rights_status": "requires_piece_level_review",
+      "owner": null,
+      "approver": null,
+      "window": {"starts_at": null, "ends_at": null},
+      "pieces": [],
+      "releases": []
+    }
+  ]
+}

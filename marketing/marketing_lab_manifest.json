@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "jok.marketing_lab.manifest",
+  "timeline_scope": "GEN",
+  "status": "draft_internal_laboratory",
+  "title": "Just One KISS Marketing Campaign Laboratory",
+  "entrypoint": "marketing/README.md",
+  "authority_notice": "Derived working layer. Controlled repository and runtime sources retain domain authority.",
+  "sections": {
+    "charter": [
+      "marketing/LAB_CHARTER.md"
+    ],
+    "canon": [
+      "marketing/canon/CAMPAIGN_CANON.md",
+      "marketing/canon/NINE_FAMILY_PLAYBOOK.md"
+    ],
+    "strategy": [
+      "marketing/strategy/AUDIENCES_AND_JOURNEYS.md",
+      "marketing/strategy/CAMPAIGN_ARCHITECTURE.md",
+      "marketing/strategy/CHANNEL_PLAYBOOK.md",
+      "marketing/strategy/CURRENT_EVENT_STARTER_CAMPAIGN.md"
+    ],
+    "production": [
+      "marketing/production/CONTENT_AND_ASSET_SYSTEM.md",
+      "marketing/production/CREATIVE_REVIEW_SCORECARD.md"
+    ],
+    "operations": [
+      "marketing/operations/PRODUCTION_AND_RELEASE.md",
+      "marketing/operations/MEASUREMENT_AND_EXPERIMENTATION.md"
+    ],
+    "templates": [
+      "marketing/templates/CAMPAIGN_BRIEF_TEMPLATE.md",
+      "marketing/templates/CAMPAIGN_PIECE_TEMPLATE.md",
+      "marketing/templates/CONTENT_CALENDAR_TEMPLATE.md",
+      "marketing/templates/EXPERIMENT_CARD_TEMPLATE.md",
+      "marketing/templates/RELEASE_RECORD_TEMPLATE.md",
+      "marketing/templates/ASSET_RIGHTS_RECORD_TEMPLATE.md"
+    ],
+    "registers": [
+      "marketing/registers/campaign_registry.json",
+      "marketing/registers/experiment_registry.json",
+      "marketing/registers/release_registry.json"
+    ],
+    "source_library": [
+      "marketing/source_library/SOURCE_CATALOG.md",
+      "marketing/source_library/ALL_SOURCE_PATHS.md"
+    ]
+  }
+}
