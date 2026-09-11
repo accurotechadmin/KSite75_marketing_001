@@ -1,44 +1,33 @@
-# Current Event Starter Campaign
+# Evergreen Campaign Starter
 
-**Status:** Draft synthesis; all event facts require release-time verification.
-**Purpose:** Convert the existing five-piece first-run campaign into a nine-family-aware starting plan.
+**Status:** Draft demonstration; contains no active event facts.
+**Purpose:** Show how the five audience lenses and five-stage funnel become a first portable campaign system.
 
 ## Objective
 
-Build awareness and practical confidence for the current public event, encourage update-list/RSVP participation without paid-ticket framing, enable accurate sharing, and create a continuing Fan Vault relationship.
+Build distinctive awareness, demonstrate original craft, offer a low-risk connection, enable accurate sharing, and create a continuing relationship without inventing a date, venue, ticket, price, effect, or availability claim.
 
-## Provisional fact overlay
+## Campaign system
 
-The current runtime site presents a July 25, 2026 free event at Cycle Moore Legacy, 11075 US 31 South, Interlochen, Michigan; no ticket required and RSVP appreciated. It also publishes parking/camping distinctions and advisories for loud sound, bright lights, fog, and flashing patterns. **Pull exact current language from runtime tokens and verify every field before release.**
+The authoritative working briefs are in `../campaigns/`. Their five lenses are Aspirational, Rational Evaluator, Value & Convenience, Social / Community, and Authority / Premium. The 25-cell plan is in `../expression/FUNNEL_MATRIX.md` and machine-readable data is in `../campaigns/campaign_system.json`.
 
-## Recommended piece system
+## Recommended launch sequence
 
-| ID | Stage | Lead family | Core job | Concept | Primary action |
-| --- | --- | --- | --- | --- | --- |
-| 01 | Awareness | Arena Arrives | Establish name/date/place and scale | Portal silhouette + date stamp | Visit/save date |
-| 02 | Interest | Shadow to Fire | Demonstrate transformation | Three-frame darkness/chrome/heat reveal | See/watch spectacle |
-| 03 | Interest | Love Letter with Volume | Explain original fan devotion | Performer/craft portrait story | Read/watch |
-| 04 | Consideration | Before the First Chord | Resolve logistics and sensory concerns | Journey-ordered utility cards | Plan/get directions |
-| 05 | Conversion | One Night / Full Fire | Compress facts into action | Poster stack + fire CTA | Join updates/RSVP |
-| 06 | Conversion | Join the Rally | Make value exchange explicit | Dossier signup + update benefits | Join updates |
-| 07 | Retention | Open the Road Case | Reward return and contribution | Lit case + real vault modules | Explore/share/ask |
-| 08 | Social/merch optional | Chrome-Blood Spectacle | Create collectible visual series | Numbered armor macro | Save/share/browse |
-| 09 | Professional parallel | Built to Land and Light | Support qualified inquiries | Hero + public-safe dossier | Contact/inquire |
-
-## Rollout logic
-
-Run 01–03 to cold audiences, 04–06 to engaged audiences, 07–08 to subscribers/engagers, and 09 only to relevant professional audiences. In the final lead-up, practical/current material should outweigh atmosphere. After the event, expire attendance CTAs and pivot only to cleared recap/vault content.
+1. Publish one awareness concept per lens to a deliberately selected audience—not all channels by default.
+2. Route each placement to its congruent lens entry on the shared landing page.
+3. Retarget engaged visitors with lens-specific consideration proof.
+4. Offer the non-submitting prototype interaction only for usability review; connect collection only after consent, privacy, owner, and endpoint approval.
+5. Turn cleared post-interaction questions and stories into future proof records.
 
 ## Minimum deliverable set
 
-- one accessible landing destination per advertised action;
-- one vertical master, square, 9:16, and wide derivative for pieces actually distributed;
-- one plain-text caption/copy block and alt-text draft per visual;
-- one partner sharing card with short URL and correction contact;
-- one practical arrival card suitable for mobile and print;
-- one post-event rights-cleared vault/recap plan;
-- piece, release, and measurement records.
+- one accessible shared landing page with a distinct entry state per lens;
+- one original 4:5 SVG concept master per lens;
+- planned 9:16, 1:1, 16:9, 1.91:1, and 2:3 derivatives where selected placements require them;
+- one copy bank, alt-text draft, and rights record per final visual;
+- piece, release, experiment, and measurement records;
+- a tested destination and one primary event per placement.
 
-## Holds to resolve
+## Holds to resolve before public release
 
-Current platform dimensions/policies, exact dates/times and venue wording, admission and RSVP language, parking/camping details, destination URLs, asset provenance, performer/likeness approvals, literal-effect claims, media permissions, form consent/privacy language, accessibility/contact pathway, spend/budget, publication owners, and expiry timing.
+Active objective, exact campaign window, destinations, collection endpoint, privacy/consent language, asset provenance, likeness permissions, any literal-effect or capability statement, accessibility/contact pathway, budget, publication owners, platform policy/specification review, final approval, and expiry timing.

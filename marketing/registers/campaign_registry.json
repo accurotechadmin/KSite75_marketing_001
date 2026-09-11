@@ -1,26 +1,138 @@
 {
-  "schema_version": "0.1.0-lab",
+  "schema_version": "1.0.0",
   "document_id": "jok.marketing_lab.campaign_registry",
   "status": "draft",
   "visibility": "internal",
-  "authority_notice": "Working laboratory register; does not replace governed compendium records or approve public claims.",
+  "authority_notice": "Portable working register; no entry is public-release approval.",
   "campaigns": [
     {
-      "campaign_id": "JOK-2026EVENT-STARTER",
-      "title": "Current Event Starter Campaign",
-      "timeline_scope": "GEN",
+      "campaign_id": "JOK-AUD-A-EVERGREEN",
+      "title": "Enter the Larger Night",
+      "audience_lens": "AUD-A",
       "status": "draft",
-      "objective": "Build awareness, practical confidence, consented connection, and accurate sharing for the current public event.",
-      "audiences": ["theatrical_rock_fans", "curious_local_visitors", "families_and_sensitive_guests", "returning_participants"],
-      "funnel_stages": ["awareness", "interest", "consideration", "conversion", "retention_nurture"],
-      "family_strategy": ["arena_arrives", "shadow_to_fire", "love_letter_with_volume", "before_the_first_chord", "one_night_full_fire", "join_the_rally", "open_the_road_case"],
-      "source_brief": "marketing/strategy/CURRENT_EVENT_STARTER_CAMPAIGN.md",
-      "fact_status": "requires_release_time_verification",
-      "rights_status": "requires_piece_level_review",
+      "canon_id": "jok.brand-canon.portable",
+      "trace_complete": true,
+      "funnel_stages": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05"
+      ],
+      "brief": "marketing/campaigns/CAMPAIGN_A_ASPIRATIONAL.md",
+      "asset": "marketing/assets/social/JOK_AUD-A_S01_C01_STILL_4x5_V01.svg",
+      "destination": "marketing/site/index.html?lens=A#story",
+      "primary_event": "view_story",
       "owner": null,
       "approver": null,
-      "window": {"starts_at": null, "ends_at": null},
-      "pieces": [],
+      "window": {
+        "starts_at": null,
+        "ends_at": null
+      },
+      "releases": []
+    },
+    {
+      "campaign_id": "JOK-AUD-B-EVERGREEN",
+      "title": "The Craft Behind the Heat",
+      "audience_lens": "AUD-B",
+      "status": "draft",
+      "canon_id": "jok.brand-canon.portable",
+      "trace_complete": true,
+      "funnel_stages": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05"
+      ],
+      "brief": "marketing/campaigns/CAMPAIGN_B_RATIONAL.md",
+      "asset": "marketing/assets/social/JOK_AUD-B_S01_C01_STILL_4x5_V01.svg",
+      "destination": "marketing/site/index.html?lens=B#proof",
+      "primary_event": "open_proof_card",
+      "owner": null,
+      "approver": null,
+      "window": {
+        "starts_at": null,
+        "ends_at": null
+      },
+      "releases": []
+    },
+    {
+      "campaign_id": "JOK-AUD-C-EVERGREEN",
+      "title": "Big Night. Clear Next Step.",
+      "audience_lens": "AUD-C",
+      "status": "draft",
+      "canon_id": "jok.brand-canon.portable",
+      "trace_complete": true,
+      "funnel_stages": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05"
+      ],
+      "brief": "marketing/campaigns/CAMPAIGN_C_VALUE.md",
+      "asset": "marketing/assets/social/JOK_AUD-C_S01_C01_STILL_4x5_V01.svg",
+      "destination": "marketing/site/index.html?lens=C#signal",
+      "primary_event": "start_signal_form",
+      "owner": null,
+      "approver": null,
+      "window": {
+        "starts_at": null,
+        "ends_at": null
+      },
+      "releases": []
+    },
+    {
+      "campaign_id": "JOK-AUD-D-EVERGREEN",
+      "title": "We Complete the Ritual",
+      "audience_lens": "AUD-D",
+      "status": "draft",
+      "canon_id": "jok.brand-canon.portable",
+      "trace_complete": true,
+      "funnel_stages": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05"
+      ],
+      "brief": "marketing/campaigns/CAMPAIGN_D_COMMUNITY.md",
+      "asset": "marketing/assets/social/JOK_AUD-D_S01_C01_STILL_4x5_V01.svg",
+      "destination": "marketing/site/index.html?lens=D#community",
+      "primary_event": "start_signal_form",
+      "owner": null,
+      "approver": null,
+      "window": {
+        "starts_at": null,
+        "ends_at": null
+      },
+      "releases": []
+    },
+    {
+      "campaign_id": "JOK-AUD-E-EVERGREEN",
+      "title": "Built With Intent",
+      "audience_lens": "AUD-E",
+      "status": "draft",
+      "canon_id": "jok.brand-canon.portable",
+      "trace_complete": true,
+      "funnel_stages": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05"
+      ],
+      "brief": "marketing/campaigns/CAMPAIGN_E_AUTHORITY.md",
+      "asset": "marketing/assets/social/JOK_AUD-E_S01_C01_STILL_4x5_V01.svg",
+      "destination": "marketing/site/index.html?lens=E#proof",
+      "primary_event": "open_dossier",
+      "owner": null,
+      "approver": null,
+      "window": {
+        "starts_at": null,
+        "ends_at": null
+      },
       "releases": []
     }
   ]

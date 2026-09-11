@@ -50,3 +50,11 @@
 | Channel/policy | | | | |
 | Destination/tracking | | | | |
 | Final approval | | | | |
+
+## Expression trace
+
+| Brand truth ID | Narrative ID | Audience lens | Funnel stage | Proposition ID | Proof ID | Concept ID | Asset ID | Placement ID | CTA ID | Destination ID | Measurement event |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | | | | | | | |
+
+A blank cell is a release hold.

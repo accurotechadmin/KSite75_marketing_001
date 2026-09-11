@@ -1,4 +1,6 @@
-# Compiled Campaign Canon
+# Campaign-Facing Canon
+
+**Portable authority:** `BRAND_CANON.md` and `BRAND_CANON.json` contain the controlling standalone truth. This document is its creative quick reference.
 
 ## Brand promise
 

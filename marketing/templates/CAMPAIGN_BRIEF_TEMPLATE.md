@@ -51,3 +51,18 @@
 - Monitoring owner:
 - Pause/kill condition:
 - Decision date/rule:
+
+## Marketing Expression Layer trace
+
+- Brand truth/version:
+- Narrative chapter:
+- Audience lens ID:
+- Funnel stage ID:
+- Proposition ID:
+- Proof ID/status:
+- Creative concept ID:
+- Canonical asset family:
+- Placement(s):
+- CTA ID:
+- Landing destination/anchor:
+- Primary measurement event:
