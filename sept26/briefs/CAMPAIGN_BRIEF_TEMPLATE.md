@@ -11,6 +11,8 @@
 - Audience and current belief:
 - Desired next belief/behavior:
 - Funnel job:
+- Theme mode: current-theme fidelity | new-theme exploration | controlled hybrid
+- Theme ID / charter / preserved anchors:
 - Lead creative family / supporting family:
 - Single proposition:
 - Observable proof:

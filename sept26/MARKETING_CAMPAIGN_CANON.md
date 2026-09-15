@@ -189,6 +189,10 @@ Avoid: generic local-band flyers, stock “rock hands,” fake sold-out crowds, 
 
 The repository contains stage portal, poster portal, chrome costume detail, lighting rig, fog/strobe atmosphere, gear/control dossier, road-case vault, performer/press portrait, dispatch map, and five editable 4:5 social SVG concept masters. They are candidates only. Before reuse record creator/source, rights, recognizable people, protected-design risk, allowed paid/organic channels, territory, term, edits, alt text, checksum, and expiry.
 
+### 5.6 Campaign theme modes
+
+Every brief declares **current-theme fidelity**, **new-theme exploration**, or a **controlled hybrid**. Current-theme work extends the system and emotional logic rather than copying screenshot pixels. A new theme is a governed campaign expression—not permission to change brand identity, confirmed facts, independence, rights, accessibility, safety, consent, or release controls. Create and approve the theme charter in [`THEME_SYSTEM.md`](THEME_SYSTEM.md) before producing a new-theme family.
+
 ---
 
 ## 6. Voice, copy, and claims
