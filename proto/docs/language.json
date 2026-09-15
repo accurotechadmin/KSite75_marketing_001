@@ -11,7 +11,7 @@
             "proto/public/index.php",
             "proto/app/view.php",
             "proto/app/site_data.php",
-            "proto/public/july-25-2026/index.php",
+            "proto/public/september-26-2026/index.php",
             "proto/public/what-is-just-one-kiss/index.php",
             "proto/public/spectacle/index.php",
             "proto/public/directions/index.php",
@@ -75,7 +75,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "current_homepage_inventory",
-            "canonical_text": "Free all-day July 25, 2026 show at Cycle Moore Legacy Campground, 11075 US 31 South, Interlochen, MI. No ticket required; RSVP is appreciated.",
+            "canonical_text": "A free show on September 26, 2026 at 7:30 PM at Cycle Moore Legacy Campground, 11075 US 31 South, Interlochen, MI. No ticket required; RSVP is appreciated.",
             "text_role": "meta_description",
             "component": "document_head",
             "tone": "fan-facing",
@@ -599,7 +599,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "current_homepage_inventory",
-            "canonical_text": "Free show · July 25 · Cycle Moore Legacy Campground · Interlochen, MI / US 31 / 7:30pm",
+            "canonical_text": "Free show · September 26, 2026 · 7:30 PM · Cycle Moore Legacy Campground · Interlochen, MI / US 31",
             "text_role": "eyebrow",
             "component": "hero",
             "tone": "fan-facing",
@@ -930,7 +930,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "current_homepage_inventory",
-            "canonical_text": "Get the July 25 drop",
+            "canonical_text": "Get the September 26 drop",
             "text_role": "primary_cta",
             "component": "hero",
             "tone": "fan-facing",
@@ -1260,7 +1260,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "current_homepage_inventory",
-            "canonical_text": "July 25 at Cycle Moore Legacy.",
+            "canonical_text": "September 26, 2026 at 7:30 PM at Cycle Moore Legacy.",
             "text_role": "headline",
             "component": "event_section",
             "tone": "fan-facing",
@@ -1300,7 +1300,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "current_homepage_inventory",
-            "canonical_text": "July 25, 2026 in Interlochen on US 31. The show is free. Rustic camping is $10 per person per night. Electric camping is $35 for two adults per night. Camping is available for one night before and one night after the show. Get the July 25 drop for schedule reminders, camping notes, parking, access notes, safety details, and the Facebook event link as the day draws near.",
+            "canonical_text": "September 26, 2026 at 7:30 PM in Interlochen on US 31. The show is free. Rustic camping is $10 per person per night. Electric camping is $35 for two adults per night. Camping is available for one night before and one night after the show. Get the September 26 drop for schedule reminders, camping notes, parking, access notes, safety details, and the Facebook event link as the day draws near.",
             "text_role": "body_copy",
             "component": "event_section",
             "tone": "fan-facing",
@@ -1462,7 +1462,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "current_homepage_inventory",
-            "canonical_text": "July 25",
+            "canonical_text": "September 26, 2026 · 7:30 PM",
             "text_role": "ticket_fact",
             "component": "event_ticket",
             "tone": "fan-facing",
@@ -2587,7 +2587,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "current_homepage_inventory",
-            "canonical_text": "Get the July 25 drop.",
+            "canonical_text": "Get the September 26 drop.",
             "text_role": "headline",
             "component": "updates_section",
             "tone": "fan-facing",
@@ -3470,7 +3470,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "current_homepage_inventory",
-            "canonical_text": "Get the July 25 drop",
+            "canonical_text": "Get the September 26 drop",
             "text_role": "submit_button",
             "component": "lead_form",
             "tone": "form_ui",
@@ -3554,7 +3554,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "current_homepage_inventory",
-            "canonical_text": "July 25, 2026",
+            "canonical_text": "September 26, 2026 at 7:30 PM",
             "text_role": "headline_line",
             "component": "final_cta",
             "tone": "fan-facing",
@@ -3722,7 +3722,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "current_homepage_inventory",
-            "canonical_text": "Get the July 25 drop",
+            "canonical_text": "Get the September 26 drop",
             "text_role": "primary_cta",
             "component": "final_cta",
             "tone": "fan-facing",
@@ -4686,7 +4686,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "current_homepage_inventory",
-            "canonical_text": "Just One KISS · July 25, 2026 · Free show · Interlochen on US 31. Independent theatrical tribute presentation; no official affiliation, sponsorship, authorization, or endorsement is claimed.",
+            "canonical_text": "Just One KISS · September 26, 2026 at 7:30 PM · Free show · Interlochen on US 31. Independent theatrical tribute presentation; no official affiliation, sponsorship, authorization, or endorsement is claimed.",
             "text_role": "footer_summary",
             "component": "site_footer",
             "tone": "fan-facing",
@@ -4768,7 +4768,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "current_homepage_inventory",
-            "canonical_text": "Join the July 25 update list",
+            "canonical_text": "Join the September 26 update list",
             "text_role": "mobile_sticky_cta",
             "component": "mobile_cta",
             "tone": "fan-facing",
@@ -4848,7 +4848,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "current_homepage_inventory",
-            "canonical_text": "The July 25 signal is live — check event updates.",
+            "canonical_text": "The September 26 signal is live — check event updates.",
             "text_role": "dynamic_status_message",
             "component": "hero_countdown",
             "tone": "utility",
@@ -4968,15 +4968,15 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "Just One KISS — July 25, 2026 Free Show",
+            "canonical_text": "Just One KISS — September 26, 2026 at 7:30 PM Free Show",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 21,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -4985,7 +4985,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5008,15 +5008,15 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "Admission is free at Cycle Moore Legacy, 11075 US 31 South, Interlochen, MI 49643. No ticket is required; RSVP is appreciated. The event runs all day; camping is separate.",
+            "canonical_text": "Free show on September 26, 2026 at 7:30 PM at Cycle Moore Legacy, 11075 US 31 South, Interlochen, MI 49643. No ticket is required; RSVP is appreciated. Camping is separate.",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 21,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5025,7 +5025,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5048,15 +5048,15 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "Free show · July 25, 2026 · Cycle Moore Legacy",
+            "canonical_text": "Free show · September 26, 2026 at 7:30 PM · Cycle Moore Legacy",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 26,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5065,7 +5065,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5088,15 +5088,15 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "July 25, 2026 Free Show",
+            "canonical_text": "September 26, 2026 at 7:30 PM Free Show",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 27,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5105,7 +5105,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5130,13 +5130,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "What the landing page says is the truth: admission is free, the address is real, the show is built to hit hard, and the details that can change will be posted here before the fire starts.",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 28,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5145,7 +5145,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5170,13 +5170,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Free show facts",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 29,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5185,7 +5185,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5210,13 +5210,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Free admission",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 30,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5225,7 +5225,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5250,13 +5250,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "No ticket required",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 30,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5265,7 +5265,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5290,13 +5290,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "RSVP appreciated",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 30,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5305,7 +5305,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5330,13 +5330,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Camping separate",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 30,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5345,7 +5345,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5368,15 +5368,15 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "Join the July 25 update list",
+            "canonical_text": "Join the September 26 update list",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 32,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5385,7 +5385,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5413,13 +5413,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Get directions",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 32,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5428,7 +5428,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5453,13 +5453,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Read FAQ",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 32,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5468,7 +5468,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5493,13 +5493,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Known now",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 36,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5508,7 +5508,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5533,13 +5533,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "The signal is clear.",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 36,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5548,7 +5548,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5573,13 +5573,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "01",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 38,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5588,7 +5588,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5619,13 +5619,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Free show",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 38,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5634,7 +5634,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5657,15 +5657,15 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "The July 25, 2026 Just One KISS show is free. No ticket is required; RSVP is appreciated so updates can find you before show day.",
+            "canonical_text": "The Just One KISS show on September 26, 2026 at 7:30 PM is free. No ticket is required; RSVP is appreciated so updates can find you before show day.",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 38,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5674,7 +5674,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5699,13 +5699,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "02",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 39,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5714,7 +5714,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5745,13 +5745,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Cycle Moore Legacy",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 39,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5760,7 +5760,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5787,13 +5787,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "The destination is Cycle Moore Legacy, 11075 US 31 South, Interlochen, MI 49643 — a campground-and-pavilion setting on US 31.",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 39,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5802,7 +5802,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5827,13 +5827,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "03",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 40,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5842,7 +5842,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5873,13 +5873,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Camping note",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 40,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5888,7 +5888,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5913,13 +5913,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "The show is free. Rustic camping is $10 per person per night. Electric camping is $35 for two adults per night. Camping is available for one night before and one night after the show.",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 40,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5928,7 +5928,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5953,13 +5953,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "04",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 41,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -5968,7 +5968,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -5999,13 +5999,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Parking",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 41,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -6014,7 +6014,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -6040,13 +6040,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Parking outside the gate. Overflow and handicap parking available.",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 41,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -6055,7 +6055,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -6081,13 +6081,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "What to expect",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 46,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -6096,7 +6096,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -6121,13 +6121,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "A family-friendly blast with teeth.",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 46,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -6136,7 +6136,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -6161,13 +6161,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Expect loud rock energy, bright stage looks, fog, flashing patterns, video atmosphere, and a one-performer theatrical tribute built for fans who want the night to feel bigger than the pavilion.",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 47,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -6176,7 +6176,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -6201,13 +6201,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Family-friendly warning: loud sound, bright lights, fog, and sequences of flashing lights and patterns may be used. Sensitive guests should plan accordingly.",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 48,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -6216,7 +6216,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -6241,13 +6241,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Do not miss the drop",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 51,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -6256,7 +6256,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -6279,15 +6279,15 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "Join the July 25 update list.",
+            "canonical_text": "Join the September 26 update list.",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 51,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -6296,7 +6296,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -6322,13 +6322,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "Get arrival notes, schedule reminders, camping and parking updates, safety/access notes, Facebook event link updates, and photo/video sharing instructions as they are confirmed.",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 51,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -6337,7 +6337,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -6362,13 +6362,13 @@
             "source_scope": "supporting_page_runtime",
             "canonical_text": "No ticket required: RSVP is appreciated, and email is the cleanest way to keep the details from getting lost in the smoke.",
             "text_role": "public_copy",
-            "component": "july-25-2026",
+            "component": "september-26-2026",
             "tone": "fan-facing",
             "reuse_policy": "page_specific",
             "context_notes": "Supporting-page buildout token added for centralized runtime language editing.",
             "occurrences": [
                 {
-                    "file": "proto/public/july-25-2026/index.php",
+                    "file": "proto/public/september-26-2026/index.php",
                     "line_start": 51,
                     "selector_or_context": "runtime language helper",
                     "rendered_context": "public page text",
@@ -6377,7 +6377,7 @@
             ],
             "dependencies": {
                 "webpages": [
-                    "/july-25-2026/"
+                    "/september-26-2026/"
                 ],
                 "marketing_functions": [],
                 "database_queries": [],
@@ -6600,7 +6600,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "Join the July 25 list",
+            "canonical_text": "Join the September 26 list",
             "text_role": "public_copy",
             "component": "what-is-just-one-kiss",
             "tone": "fan-facing",
@@ -10251,7 +10251,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "Useful answers, safety notes, free-show details, independent tribute disclaimer, and a few outrageous rock-and-roll questions before July 25, 2026.",
+            "canonical_text": "Useful answers, safety notes, free-show details, independent tribute disclaimer, and a few outrageous rock-and-roll questions before September 26, 2026 at 7:30 PM.",
             "text_role": "public_copy",
             "component": "faq-disclaimer",
             "tone": "fan-facing",
@@ -10571,7 +10571,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "Is the July 25 show really free?",
+            "canonical_text": "Is the September 26 show really free?",
             "text_role": "faq_question",
             "component": "faq-disclaimer",
             "tone": "fan-facing",
@@ -11934,7 +11934,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "Use the form for show questions, accessibility and safety notes, technical/location routing, press, Facebook sharing, or anything that needs a real human answer before the July 25 fire.",
+            "canonical_text": "Use the form for show questions, accessibility and safety notes, technical/location routing, press, Facebook sharing, or anything that needs a real human answer before the September 26 fire.",
             "text_role": "public_copy",
             "component": "contact",
             "tone": "fan-facing",
@@ -12719,7 +12719,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "Join the July 25 update list.",
+            "canonical_text": "Join the September 26 update list.",
             "text_role": "public_copy",
             "component": "contact",
             "tone": "fan-facing",
@@ -13998,7 +13998,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14046,7 +14046,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14096,7 +14096,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14144,7 +14144,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14192,7 +14192,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14240,7 +14240,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14288,7 +14288,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14336,7 +14336,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14386,7 +14386,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14434,7 +14434,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14482,7 +14482,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14532,7 +14532,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14580,7 +14580,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14628,7 +14628,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14676,7 +14676,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14724,7 +14724,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -14774,7 +14774,7 @@
             "dependencies": {
                 "webpages": [
                     "/",
-                    "/july-25-2026/",
+                    "/september-26-2026/",
                     "/what-is-just-one-kiss/",
                     "/spectacle/",
                     "/directions/",
@@ -15008,7 +15008,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "Join the July 25 update list",
+            "canonical_text": "Join the September 26 update list",
             "text_role": "cta_label",
             "component": "vault",
             "tone": "fan-facing",
@@ -15223,7 +15223,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "The July 25, 2026 event is a free show. No ticket is required; RSVP is appreciated.",
+            "canonical_text": "The event on September 26, 2026 at 7:30 PM is a free show. No ticket is required; RSVP is appreciated.",
             "text_role": "public_copy",
             "component": "vault",
             "tone": "fan-facing",
@@ -15922,7 +15922,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "Join the July 25 update list",
+            "canonical_text": "Join the September 26 update list",
             "text_role": "cta_label",
             "component": "video",
             "tone": "fan-facing",
@@ -16137,7 +16137,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "The July 25, 2026 event is a free show. No ticket is required; RSVP is appreciated.",
+            "canonical_text": "The event on September 26, 2026 at 7:30 PM is a free show. No ticket is required; RSVP is appreciated.",
             "text_role": "public_copy",
             "component": "video",
             "tone": "fan-facing",
@@ -16755,7 +16755,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "Join the July 25 update list",
+            "canonical_text": "Join the September 26 update list",
             "text_role": "cta_label",
             "component": "technical",
             "tone": "fan-facing",
@@ -16970,7 +16970,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "supporting_page_runtime",
-            "canonical_text": "The July 25, 2026 event is a free show. No ticket is required; RSVP is appreciated.",
+            "canonical_text": "The event on September 26, 2026 at 7:30 PM is a free show. No ticket is required; RSVP is appreciated.",
             "text_role": "public_copy",
             "component": "technical",
             "tone": "fan-facing",
@@ -17585,7 +17585,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "active_public_runtime_sync",
-            "canonical_text": "Get to Cycle Moore Legacy at 11075 US 31 South, Interlochen, MI 49643 for the free July 25, 2026 Just One KISS show.",
+            "canonical_text": "Get to Cycle Moore Legacy at 11075 US 31 South, Interlochen, MI 49643 for the free September 26, 2026 at 7:30 PM Just One KISS show.",
             "text_role": "meta_description",
             "component": "supporting_public_page",
             "tone": "fan-facing",
@@ -18153,7 +18153,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "active_public_runtime_sync",
-            "canonical_text": "Join the update list for timing reminders, arrival notes, parking details, camping notes, and the latest event-day posts as July 25 gets closer.",
+            "canonical_text": "Join the update list for timing reminders, arrival notes, parking details, camping notes, and the latest event-day posts as September 26 gets closer.",
             "text_role": "page_copy",
             "component": "supporting_public_page",
             "tone": "fan-facing",
@@ -18673,7 +18673,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "active_public_runtime_sync",
-            "canonical_text": "Answers for the free July 25, 2026 Just One KISS show at Cycle Moore Legacy: admission, arrival, camping, parking, updates, photos, and what fans should know.",
+            "canonical_text": "Answers for the free September 26, 2026 at 7:30 PM Just One KISS show at Cycle Moore Legacy: admission, arrival, camping, parking, updates, photos, and what fans should know.",
             "text_role": "meta_description",
             "component": "supporting_public_page",
             "tone": "fan-facing",
@@ -18791,7 +18791,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "active_public_runtime_sync",
-            "canonical_text": "If you remember nothing else: July 25, 2026 at Cycle Moore Legacy Campground in Interlochen. Show admission is free. Parking is outside the front gate. Overflow and handicap parking is available. Rustic camping is $10 per person per night. Electric camping is $35 for two adults per night. Camping is available for one night before and one night after the show. Join the update list so the final notes find you before show day.",
+            "canonical_text": "If you remember nothing else: September 26, 2026 at 7:30 PM at Cycle Moore Legacy Campground in Interlochen. Show admission is free. Parking is outside the front gate. Overflow and handicap parking is available. Rustic camping is $10 per person per night. Electric camping is $35 for two adults per night. Camping is available for one night before and one night after the show. Join the update list so the final notes find you before show day.",
             "text_role": "page_copy",
             "component": "supporting_public_page",
             "tone": "fan-facing",
@@ -19031,7 +19031,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "active_public_runtime_sync",
-            "canonical_text": "Here is the practical stuff and the fan stuff for July 25 at Cycle Moore Legacy. The rest is better discovered in person, surrounded by people who came because KISS still means something to them.",
+            "canonical_text": "Here is the practical stuff and the fan stuff for September 26, 2026 at 7:30 PM at Cycle Moore Legacy. The rest is better discovered in person, surrounded by people who came because KISS still means something to them.",
             "text_role": "page_copy",
             "component": "supporting_public_page",
             "tone": "fan-facing",
@@ -19191,7 +19191,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "active_public_runtime_sync",
-            "canonical_text": "A fan-built KISS tribute gathering for July 25, 2026 at Cycle Moore Legacy: free admission, campground energy, favorite songs, shared stories, and big rock attitude.",
+            "canonical_text": "A fan-built KISS tribute gathering for September 26, 2026 at 7:30 PM at Cycle Moore Legacy: free admission, campground energy, favorite songs, shared stories, and big rock attitude.",
             "text_role": "meta_description",
             "component": "supporting_public_page",
             "tone": "fan-facing",
@@ -19679,7 +19679,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "active_public_runtime_sync",
-            "canonical_text": "The win is not complicated: give fans a reason to drive in, meet up, take pictures, sing loud, and talk about July 25 after they head home.",
+            "canonical_text": "The win is not complicated: give fans a reason to drive in, meet up, take pictures, sing loud, and talk about September 26 after they head home.",
             "text_role": "page_copy",
             "component": "supporting_public_page",
             "tone": "fan-facing",
@@ -19759,7 +19759,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "active_public_runtime_sync",
-            "canonical_text": "Get July 25 updates",
+            "canonical_text": "Get September 26 updates",
             "text_role": "page_copy",
             "component": "supporting_public_page",
             "tone": "fan-facing",
@@ -19999,7 +19999,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "active_public_runtime_sync",
-            "canonical_text": "This page does not need to spoil the show. The point is simpler: people still care, the songs still travel, the stories still matter, and July 25 gives everyone a place to gather around that feeling.",
+            "canonical_text": "This page does not need to spoil the show. The point is simpler: people still care, the songs still travel, the stories still matter, and September 26 gives everyone a place to gather around that feeling.",
             "text_role": "page_copy",
             "component": "supporting_public_page",
             "tone": "fan-facing",
@@ -20079,7 +20079,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "active_public_runtime_sync",
-            "canonical_text": "It is a free show day for fans. The homepage gives the essentials, the FAQ gives the practical notes, and the rest is for everyone who decides to be there when July 25 arrives.",
+            "canonical_text": "It is a free show day for fans. The homepage gives the essentials, the FAQ gives the practical notes, and the rest is for everyone who decides to be there when September 26 arrives.",
             "text_role": "page_copy",
             "component": "supporting_public_page",
             "tone": "fan-facing",
@@ -20319,7 +20319,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "active_public_runtime_sync",
-            "canonical_text": "A free July 25, 2026 fan gathering at Cycle Moore Legacy for people who love KISS attitude, shared songs, campground energy, and a night worth showing up for.",
+            "canonical_text": "A free fan gathering on September 26, 2026 at 7:30 PM at Cycle Moore Legacy for people who love KISS attitude, shared songs, campground energy, and a night worth showing up for.",
             "text_role": "meta_description",
             "component": "supporting_public_page",
             "tone": "fan-facing",
@@ -21087,7 +21087,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "active_public_runtime_sync",
-            "canonical_text": "Some things are better left for show day. This page is not here to explain the surprise. It is here to say that July 25 is for the people who still love the size, attitude, and shared mythology of KISS.",
+            "canonical_text": "Some things are better left for show day. This page is not here to explain the surprise. It is here to say that September 26 is for the people who still love the size, attitude, and shared mythology of KISS.",
             "text_role": "page_copy",
             "component": "supporting_public_page",
             "tone": "fan-facing",
@@ -21167,7 +21167,7 @@
             "classification": "GEN",
             "status": "current",
             "source_scope": "active_public_runtime_sync",
-            "canonical_text": "The homepage says enough: free show, July 25, Cycle Moore Legacy, Interlochen on US 31, big fan energy. The rest belongs to the people who are there when it happens.",
+            "canonical_text": "The homepage says enough: free show, September 26, Cycle Moore Legacy, Interlochen on US 31, big fan energy. The rest belongs to the people who are there when it happens.",
             "text_role": "page_copy",
             "component": "supporting_public_page",
             "tone": "fan-facing",

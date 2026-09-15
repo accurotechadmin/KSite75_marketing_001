@@ -129,14 +129,14 @@
       "path": "proto/public/index.php"
     },
     {
-      "id": "entry.july-25-2026",
-      "kind": "implementation",
-      "path": "proto/public/july-25-2026/index.php"
-    },
-    {
       "id": "entry.preserve-backup",
       "kind": "implementation",
       "path": "proto/public/preserve-backup/index.php"
+    },
+    {
+      "id": "entry.september-26-2026",
+      "kind": "implementation",
+      "path": "proto/public/september-26-2026/index.php"
     },
     {
       "id": "entry.site-layers.behavior",
@@ -299,14 +299,14 @@
       "path": "proto/public/index.php"
     },
     {
-      "id": "route.july-25-2026",
-      "kind": "surface",
-      "path": "proto/public/july-25-2026/index.php"
-    },
-    {
       "id": "route.preserve-backup",
       "kind": "surface",
       "path": "proto/public/preserve-backup/index.php"
+    },
+    {
+      "id": "route.september-26-2026",
+      "kind": "surface",
+      "path": "proto/public/september-26-2026/index.php"
     },
     {
       "id": "route.site-layers.behavior",
@@ -621,59 +621,59 @@
       "relation": "depends_on"
     },
     {
-      "from": "route.july-25-2026",
-      "to": "entry.july-25-2026",
+      "from": "route.preserve-backup",
+      "to": "entry.preserve-backup",
       "relation": "implemented_by"
     },
     {
-      "from": "route.july-25-2026",
+      "from": "route.september-26-2026",
+      "to": "entry.september-26-2026",
+      "relation": "implemented_by"
+    },
+    {
+      "from": "route.september-26-2026",
       "to": "loader.view",
       "relation": "depends_on"
     },
     {
-      "from": "route.july-25-2026",
+      "from": "route.september-26-2026",
       "to": "loader.language",
       "relation": "depends_on"
     },
     {
-      "from": "route.july-25-2026",
+      "from": "route.september-26-2026",
       "to": "loader.data",
       "relation": "depends_on"
     },
     {
-      "from": "route.july-25-2026",
+      "from": "route.september-26-2026",
       "to": "loader.sections",
       "relation": "depends_on"
     },
     {
-      "from": "route.july-25-2026",
+      "from": "route.september-26-2026",
       "to": "runtime.layers",
       "relation": "depends_on"
     },
     {
-      "from": "route.july-25-2026",
+      "from": "route.september-26-2026",
       "to": "content.language",
       "relation": "depends_on"
     },
     {
-      "from": "route.july-25-2026",
+      "from": "route.september-26-2026",
       "to": "content.sections",
       "relation": "depends_on"
     },
     {
-      "from": "route.july-25-2026",
+      "from": "route.september-26-2026",
       "to": "style.public",
       "relation": "depends_on"
     },
     {
-      "from": "route.july-25-2026",
+      "from": "route.september-26-2026",
       "to": "script.public",
       "relation": "depends_on"
-    },
-    {
-      "from": "route.preserve-backup",
-      "to": "entry.preserve-backup",
-      "relation": "implemented_by"
     },
     {
       "from": "route.site-layers.behavior",

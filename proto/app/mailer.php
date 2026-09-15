@@ -82,7 +82,7 @@ function queue_notification(string $subject, array $payload): bool
 
 function send_lead_confirmation_email(string $email, array $tags): bool
 {
-    $body = "You are signed up for the Just One KISS July 25 update list.\n\n"
+    $body = "You are signed up for the Just One KISS September 26 update list.\n\n"
         . "We will use this list for confirmed event updates, arrival notes, camping and parking reminders, safety/access notes, Facebook/event-link updates, and approved photo/video sharing instructions.\n\n"
         . "Selected update topics: " . implode(', ', $tags) . "\n\n"
         . "Just One KISS is an independent theatrical tribute presentation. No official affiliation, sponsorship, authorization, endorsement, ownership, or approval is claimed.";
