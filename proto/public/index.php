@@ -20,7 +20,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 
 $csrf = csrf_token();
-render_header(lang_text('landing.meta.title.home', 'Just One KISS — You Wanted the Best? You Got the Best!'), lang_text('landing.meta.description.home', 'Free all-day July 25, 2026 show at Cycle Moore Legacy, 11075 US 31 South, Interlochen, MI. No ticket required; RSVP is appreciated.'));
+render_header(lang_text('landing.meta.title.home', 'Just One KISS — You Wanted the Best? You Got the Best!'), lang_text('landing.meta.description.home', 'A free show on September 26, 2026 at 7:30 PM at Cycle Moore Legacy, 11075 US 31 South, Interlochen, MI. No ticket required; RSVP is appreciated.'));
 render_notice($formResult);
 ?>
 <main id="main">
@@ -29,14 +29,14 @@ render_notice($formResult);
   <?php render_page_section_slot('/', 'before_section_01'); ?>
   <section id="top" class="hero section-shell hero--portal" aria-labelledby="hero-title"<?= asset_style('trailer-poster-stage-portal.webp') ?>>
     <div class="hero__copy">
-      <p class="eyebrow"><?= lang_editable('landing.hero.eyebrow', 'Free show · July 25, 2026 · Cycle Moore Legacy · Interlochen / US 31') ?></p>
+      <p class="eyebrow"><?= lang_editable('landing.hero.eyebrow', 'Free show · September 26, 2026 · 7:30 PM · Cycle Moore Legacy · Interlochen / US 31') ?></p>
       <h1 id="hero-title"><?= lang_editable('landing.hero.title', 'You wanted the best? You got the best!') ?></h1>
       <section class="hero-brand-echo" aria-label="<?= e(lang_text('landing.global.brand.aria', 'Just One KISS home')) ?>">
         <span><?= lang_editable('landing.global.brand.line1', 'Just One') ?></span>
         <strong><?= lang_editable('landing.global.brand.line2', 'KISS') ?></strong>
       </section>
       <p class="hero__lede"><?= lang_editable('landing.hero.lede', 'A free, family-friendly theatrical rock tribute day at Cycle Moore Legacy with campground energy, a pavilion stage, full lighting, loud music, bright lights, fog, and flashing patterns.') ?></p>
-      <div class="hero-countdown" data-countdown data-target-date="2026-07-25T10:00:00-04:00" aria-live="polite"><?= lang_editable('landing.hero.countdown.loading', 'Countdown loading…') ?></div>
+      <div class="hero-countdown" data-countdown data-target-date="2026-09-26T19:30:00-04:00" aria-live="polite"><?= lang_editable('landing.hero.countdown.loading', 'Countdown loading…') ?></div>
       <div class="hero-facts" aria-label="<?= e(lang_text('landing.event.ticket.aria', 'Event facts')) ?>">
         <span><?= lang_editable('landing.hero.fact.1', 'Free show') ?></span>
         <span><?= lang_editable('landing.hero.fact.2', 'No ticket required') ?></span>
@@ -44,7 +44,7 @@ render_notice($formResult);
         <span><?= lang_editable('landing.hero.fact.4') ?></span>
       </div>
       <div class="cta-row" aria-label="Hero actions">
-        <a class="button button--fire" href="#updates" data-track="hero-updates"><?= lang_editable('landing.hero.cta.drop', 'Get the July 25 drop') ?></a>
+        <a class="button button--fire" href="#updates" data-track="hero-updates"><?= lang_editable('landing.hero.cta.drop', 'Get the September 26 drop') ?></a>
         <a class="button button--chrome" href="<?= e(page_url('/directions/')) ?>" data-track="hero-directions"><?= lang_editable('landing.hero.cta.directions', 'Get directions') ?></a>
       </div>
       <p class="microcopy"><?= lang_editable('landing.hero.disclaimer', 'Independent theatrical rock tribute. No official affiliation, sponsorship, authorization, or endorsement is claimed.') ?></p>
@@ -63,12 +63,12 @@ render_notice($formResult);
     <div class="event-poster">
       <div>
         <p class="eyebrow"><?= lang_editable('landing.event.eyebrow', 'Ask and share show tips') ?></p>
-        <h2 id="event-title"><?= lang_editable('landing.event.title', 'July 25 at Cycle Moore Legacy.') ?></h2>
+        <h2 id="event-title"><?= lang_editable('landing.event.title', 'September 26, 2026 at 7:30 PM at Cycle Moore Legacy.') ?></h2>
         <p><?= lang_editable('landing.event.body') ?></p>
         <p><strong><?= lang_editable('landing.event.venue.name', 'Cycle Moore Legacy') ?></strong><br><?= lang_editable('landing.event.venue.address_phone', '11075 US 31 South, Interlochen, MI 49643 · Phone: 231-276-9091') ?></p>
       </div>
       <div class="event-ticket" aria-label="<?= e(lang_text('landing.event.ticket.aria', 'Event summary')) ?>">
-        <strong><?= lang_editable('landing.event.ticket.1', 'July 25') ?></strong>
+        <strong><?= lang_editable('landing.event.ticket.1', 'September 26, 2026 · 7:30 PM') ?></strong>
         <span><?= lang_editable('landing.event.ticket.2', 'Free show') ?></span>
         <span><?= lang_editable('landing.event.ticket.3') ?></span>
         <span><?= lang_editable('landing.event.ticket.4', 'Cycle Moore Legacy') ?></span>
@@ -103,12 +103,12 @@ render_notice($formResult);
 
 
   <?php render_page_section_slot('/', 'before_section_04'); ?>
-  <section id="updates" class="section-shell form-section section-with-bg section-with-bg--control" aria-labelledby="updates-title"<?= asset_style('gear-control-dossier.webp') ?>><div><p class="eyebrow"><?= lang_editable('landing.updates.eyebrow', 'Join the rally') ?></p><h2 id="updates-title"><?= lang_editable('landing.updates.title', 'Get the July 25 drop.') ?></h2><p><?= lang_editable('landing.updates.body', 'No hunting. Get Cycle Moore Legacy arrival notes, all-day schedule reminders, camping and parking notes, safety/access updates, Facebook event link updates, and photo/video sharing instructions.') ?></p><div class="safety-callout"><?= lang_editable_with_strong_prefix('landing.updates.safety_callout', 'No ticket required: RSVP is appreciated. Parking is outside the gate. Overflow and handicap parking available.', 'No ticket required:') ?></div></div><?php render_lead_form($csrf); ?></section>
+  <section id="updates" class="section-shell form-section section-with-bg section-with-bg--control" aria-labelledby="updates-title"<?= asset_style('gear-control-dossier.webp') ?>><div><p class="eyebrow"><?= lang_editable('landing.updates.eyebrow', 'Join the rally') ?></p><h2 id="updates-title"><?= lang_editable('landing.updates.title', 'Get the September 26 drop.') ?></h2><p><?= lang_editable('landing.updates.body', 'No hunting. Get Cycle Moore Legacy arrival notes, all-day schedule reminders, camping and parking notes, safety/access updates, Facebook event link updates, and photo/video sharing instructions.') ?></p><div class="safety-callout"><?= lang_editable_with_strong_prefix('landing.updates.safety_callout', 'No ticket required: RSVP is appreciated. Parking is outside the gate. Overflow and handicap parking available.', 'No ticket required:') ?></div></div><?php render_lead_form($csrf); ?></section>
 
   <?php render_page_section_slot('home', 'after_updates'); ?>
 
   <?php render_page_section_slot('/', 'before_section_05'); ?>
-  <section class="section-shell final-cta section-with-bg section-with-bg--fog" aria-labelledby="final-title"<?= asset_style('fog-strobe-atmosphere.webp') ?>><p class="eyebrow"><?= lang_editable('landing.final.eyebrow', 'One night. Full fire.') ?></p><h2 id="final-title"><span><?= lang_editable('landing.final.title.line.1', 'July 25, 2026') ?></span><span><?= lang_editable('landing.final.title.line.2', 'Free show') ?></span><span><?= lang_editable('landing.final.title.line.3', 'Cycle Moore Legacy') ?></span><span><?= lang_editable('landing.final.title.line.4', 'Interlochen on US 31') ?></span></h2><div class="cta-row"><a class="button button--fire" href="#updates"><?= lang_editable('landing.final.cta.drop', 'Get the July 25 drop') ?></a><a class="button button--chrome" href="<?= e(page_url('/contact/')) ?>#contact"><?= lang_editable('landing.final.cta.contact', 'Chat the show') ?></a></div></section>
+  <section class="section-shell final-cta section-with-bg section-with-bg--fog" aria-labelledby="final-title"<?= asset_style('fog-strobe-atmosphere.webp') ?>><p class="eyebrow"><?= lang_editable('landing.final.eyebrow', 'One night. Full fire.') ?></p><h2 id="final-title"><span><?= lang_editable('landing.final.title.line.1', 'September 26, 2026 at 7:30 PM') ?></span><span><?= lang_editable('landing.final.title.line.2', 'Free show') ?></span><span><?= lang_editable('landing.final.title.line.3', 'Cycle Moore Legacy') ?></span><span><?= lang_editable('landing.final.title.line.4', 'Interlochen on US 31') ?></span></h2><div class="cta-row"><a class="button button--fire" href="#updates"><?= lang_editable('landing.final.cta.drop', 'Get the September 26 drop') ?></a><a class="button button--chrome" href="<?= e(page_url('/contact/')) ?>#contact"><?= lang_editable('landing.final.cta.contact', 'Chat the show') ?></a></div></section>
 
   <?php render_page_section_slot('home', 'after_final'); ?>
 
@@ -116,7 +116,7 @@ render_notice($formResult);
   <section class="section-shell vault-section section-with-bg section-with-bg--vault" aria-labelledby="vault-title"<?= asset_style('road-case-vault-bg.webp') ?>>
     <div class="section-intro"><p class="eyebrow"><?= lang_editable('landing.vault.eyebrow', 'Fan vault') ?></p><h2 id="vault-title"><?= lang_editable('landing.vault.title', 'Open the road case.') ?></h2><p><?= lang_editable('landing.vault.body', 'The Fan Vault is where the crowd keeps the night alive: targeted fan posts, photos, clips, arrival tips, Q&A, chats, routing, and useful notes from people headed toward the same fire.') ?></p></div>
     <div class="relic-grid">
-      <a class="relic-card" href="<?= e(page_url('/july-25-2026/')) ?>"><span class="relic-card__stamp"><?= lang_editable('landing.vault.card.1.stamp', '01') ?></span><strong><?= lang_editable_lines('landing.vault.card.1.title', "Free\nShow") ?></strong><span><?= lang_editable('landing.vault.card.1.subtitle', 'Ask and share show tips') ?></span></a>
+      <a class="relic-card" href="<?= e(page_url('/september-26-2026/')) ?>"><span class="relic-card__stamp"><?= lang_editable('landing.vault.card.1.stamp', '01') ?></span><strong><?= lang_editable_lines('landing.vault.card.1.title', "Free\nShow") ?></strong><span><?= lang_editable('landing.vault.card.1.subtitle', 'Ask and share show tips') ?></span></a>
       <a class="relic-card" href="<?= e(page_url('/video/')) ?>"><span class="relic-card__stamp"><?= lang_editable('landing.vault.card.2.stamp', '02') ?></span><strong><?= lang_editable('landing.vault.card.2.title', 'Video Posts') ?></strong><span><?= lang_editable('landing.vault.card.2.subtitle', 'Post clips and reactions') ?></span></a>
       <a class="relic-card" href="<?= e(page_url('/vault/')) ?>"><span class="relic-card__stamp"><?= lang_editable('landing.vault.card.3.stamp', '03') ?></span><strong><?= lang_editable('landing.vault.card.3.title', 'Fan Media') ?></strong><span><?= lang_editable('landing.vault.card.3.subtitle', 'Fan photos and finds') ?></span></a>
       <a class="relic-card" href="<?= e(page_url('/directions/')) ?>"><span class="relic-card__stamp"><?= lang_editable('landing.vault.card.4.stamp', '04') ?></span><strong><?= lang_editable('landing.vault.card.4.title', 'Tips') ?></strong><span><?= lang_editable('landing.vault.card.4.subtitle', 'Arrival tips for fans') ?></span></a>

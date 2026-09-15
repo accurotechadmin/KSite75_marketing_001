@@ -10,21 +10,21 @@
       "path": "proto/app/view.php",
       "classification": "implementation",
       "role": "shared renderer",
-      "sha256": "e1187460dd760bc2fb02430c0abcfafd6567d91749f5cc6eacf5f0ae027d3dab"
+      "sha256": "f284f47c407611bba2e6d1273e9608cb89f04ecb26b446ddec20832b16a32863"
     },
     {
       "id": "loader.language",
       "path": "proto/app/language.php",
       "classification": "implementation",
       "role": "language loader",
-      "sha256": "36b1731fd643862e4fc8fe987eae3d03d804ac74fd29ffd8a4858729e6ab0621"
+      "sha256": "2e2818e1f709a05b2ef32dd94cb0664dea1df9d232addf830e9fbb06e2a5d849"
     },
     {
       "id": "loader.data",
       "path": "proto/app/site_data.php",
       "classification": "implementation",
       "role": "route and asset registry",
-      "sha256": "cdb97873fa5326319dae60d1c09f1e89ecca9eb14fe7c3f9232cf97fba0d2979"
+      "sha256": "2978c1566dab24f742088e7448cafa24d665e43d4a175905fca4dad7fe7f2b5c"
     },
     {
       "id": "loader.sections",
@@ -45,7 +45,7 @@
       "path": "proto/docs/language.json",
       "classification": "derived",
       "role": "runtime copy token store",
-      "sha256": "b63aa4a5e4feb97c6dce247a7408de18950234620ec75695c509e0a60048c31f"
+      "sha256": "5253a6dd21ec9270940307da8be664f5e5f4cbe9687ebf8d7facb1ae9f955933"
     },
     {
       "id": "content.sections",
@@ -66,7 +66,7 @@
       "path": "proto/public/assets/js/site.js",
       "classification": "implementation",
       "role": "active progressive enhancement",
-      "sha256": "5afe3d8a616de022d27ee1db31a42fcd3de9686dfe8aadedcd6c88bba38b1bbd"
+      "sha256": "c0015ef7529fcb205bc424f40c5cb0c1532ba4371c28d1b5b6f1946dbf06c3bb"
     },
     {
       "id": "form.lead",
@@ -101,7 +101,7 @@
       "path": "proto/docs/website_ssot.md",
       "classification": "authority",
       "role": "current website canon",
-      "sha256": "4a6edf31f566841610626d29a0e2cd6a5f4665e746d4986c13fe4cb89992d1c0"
+      "sha256": "fb671462fb8a692c3debffbdabfb6c1f48f6df29556bf9b7c80151742ab91bbe"
     },
     {
       "id": "authority.style",
@@ -150,7 +150,7 @@
       "path": "proto/public/contact/index.php",
       "classification": "implementation",
       "role": "route entrypoint",
-      "sha256": "9325b666f3703aa42e347837584fc22c62f751f4143b2c4218f376271b6b0a7d"
+      "sha256": "5c4f2e1567e45231ee085e13e3b366f7da654dec78b4ed173d6bfdb637b184a8"
     },
     {
       "id": "entry.contact-press",
@@ -164,28 +164,21 @@
       "path": "proto/public/directions/index.php",
       "classification": "implementation",
       "role": "route entrypoint",
-      "sha256": "82dcfb5191fd2045720b99cfff697e357866224f17c0fa3f56e111a379223019"
+      "sha256": "f0aa835d62471f83b96096130c3af93cedfd74ae7e7e757577fe315f1ec3d3c2"
     },
     {
       "id": "entry.faq-disclaimer",
       "path": "proto/public/faq-disclaimer/index.php",
       "classification": "implementation",
       "role": "route entrypoint",
-      "sha256": "997a2e2b4b7a4c3f24b6b187b427270a74914104f2837c036f182df4c1b9f64b"
+      "sha256": "6d81c8fbe7eb526d7b8a6f7a6722dc342db10bb630edc953a426dd854df98601"
     },
     {
       "id": "entry.home",
       "path": "proto/public/index.php",
       "classification": "implementation",
       "role": "route entrypoint",
-      "sha256": "c0054a1e328c50739455d0e0b39c5b4cef1c9d7994dd3dde8f264c6b549c3da4"
-    },
-    {
-      "id": "entry.july-25-2026",
-      "path": "proto/public/july-25-2026/index.php",
-      "classification": "implementation",
-      "role": "route entrypoint",
-      "sha256": "7637f77086e727580bb7f2a14fdcc5a09e2debb06144c9a69f2a6cd2278bbf48"
+      "sha256": "5e0de2044f537c7879b6c56ee05d93c2a55c48d1a361c9124ce05153853ab971"
     },
     {
       "id": "entry.preserve-backup",
@@ -193,6 +186,13 @@
       "classification": "implementation",
       "role": "route entrypoint",
       "sha256": "426ec935841a250bfe0024167590fd53134771a2b726695e6826c3bf63488099"
+    },
+    {
+      "id": "entry.september-26-2026",
+      "path": "proto/public/september-26-2026/index.php",
+      "classification": "implementation",
+      "role": "route entrypoint",
+      "sha256": "d9c646d7c519b372f0ba682a430ebba1421a086f498bfd902b61ac3afc632c0e"
     },
     {
       "id": "entry.site-layers.behavior",
@@ -248,35 +248,35 @@
       "path": "proto/public/spectacle/index.php",
       "classification": "implementation",
       "role": "route entrypoint",
-      "sha256": "d8f18f5485a99159b11ae262e8fb1878821a5d2c479babb8ef2cfa855dfffc58"
+      "sha256": "4cbead83e09ba2726b952b1aa248ffcffff2d568b09021eb81d4750f6110c38e"
     },
     {
       "id": "entry.technical",
       "path": "proto/public/technical/index.php",
       "classification": "implementation",
       "role": "route entrypoint",
-      "sha256": "6a6c5d2b4d64495977a5f35367d4d2f5957aa337d133cb234acc70b28a6aec36"
+      "sha256": "69481b16cf1d53f8bb0193204eb07755fbe9b26c4ae9b0a5c2164b9a17e731d3"
     },
     {
       "id": "entry.vault",
       "path": "proto/public/vault/index.php",
       "classification": "implementation",
       "role": "route entrypoint",
-      "sha256": "9f0d32513a77fb35f94ff3b133da3039dab6d8e59bfcfa848a7fe94f0358d213"
+      "sha256": "b7cd24b99968fb923bbf0740e1e83e5974a39a71137714b26062294fe2a6bb18"
     },
     {
       "id": "entry.video",
       "path": "proto/public/video/index.php",
       "classification": "implementation",
       "role": "route entrypoint",
-      "sha256": "4cb66f8d9b40503a106028fd9d9e01cc48d45e066fcfcd4463a3ce2cd91701f4"
+      "sha256": "377f7909b6af5176068dee2c7e9fc31bf5162599b372cb16ebf1260e2c465bb3"
     },
     {
       "id": "entry.what-is-just-one-kiss",
       "path": "proto/public/what-is-just-one-kiss/index.php",
       "classification": "implementation",
       "role": "route entrypoint",
-      "sha256": "47711ffc8e9d99be602eae215d153d5984b9cd5006025c007bad9a856e4f697c"
+      "sha256": "cd67ccd251a9d4e4484d66b519d0f2fe53f9bacdcc8a6548a6a29d5d5a323710"
     },
     {
       "id": "asset.README_md",
@@ -416,16 +416,16 @@
       "surface": "public"
     },
     {
-      "id": "route.july-25-2026",
-      "url": "/july-25-2026/",
-      "entrypoint": "proto/public/july-25-2026/index.php",
-      "surface": "public"
-    },
-    {
       "id": "route.preserve-backup",
       "url": "/preserve-backup/",
       "entrypoint": "proto/public/preserve-backup/index.php",
       "surface": "owner_tool"
+    },
+    {
+      "id": "route.september-26-2026",
+      "url": "/september-26-2026/",
+      "entrypoint": "proto/public/september-26-2026/index.php",
+      "surface": "public"
     },
     {
       "id": "route.site-layers.behavior",

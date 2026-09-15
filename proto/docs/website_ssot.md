@@ -24,11 +24,11 @@
 ## Homepage section canon
 | Section | Current public job | Background/image truth | Notes |
 | --- | --- | --- | --- |
-| Hero | Announce the free July 25, 2026 show and drive updates/directions. | `trailer-poster-stage-portal.webp` | Keep event facts as real text. |
+| Hero | Announce the free September 26, 2026 at 7:30 PM show and drive updates/directions. | `trailer-poster-stage-portal.webp` | Keep event facts as real text. |
 | Event details | Make free admission and camping costs clear. | `spectacle-lighting-rig.webp` | Show admission is free. Camping is $10 per night per person for one night before and one night after the show; electric hookup is $35 per person. |
 | About the show | Deliver audacious fan-facing spectacle proof. | `costume-chrome-detail.webp` | Cards 1, 2, and 4 are fan-spectacle copy; card 3 remains “One controlled blast.” |
 | Join the rally | Capture update-list leads with consent. | `gear-control-dossier.webp` | Consent row should be visually compact and aligned. DB must remain optional. |
-| Final CTA | Repeat July 25, free show, Cycle Moore Legacy, Interlochen on US 31. | `fog-strobe-atmosphere.webp` | Keep practical safety support in surrounding page/footer. |
+| Final CTA | Repeat September 26, free show, Cycle Moore Legacy, Interlochen on US 31. | `fog-strobe-atmosphere.webp` | Keep practical safety support in surrounding page/footer. |
 | Fan Vault | Road-case fan-interaction hub for targeted posts, fan media, arrival tips, Q&A, chats, routing, and useful crowd notes. | `road-case-vault-bg.webp` | Six cards only; no Stage FX card. Layout target is two rows by three columns on desktop and it remains the final homepage section before the shared footer area. |
 
 ## Supporting-page image policy
@@ -44,7 +44,7 @@ The homepage displays approved generated image backgrounds. Supporting routes no
 ## Public copy and claims checklist
 | Claim area | Approved public wording/status | Guardrail |
 | --- | --- | --- |
-| Date | July 25, 2026. | Update only with verified newer event facts. |
+| Date | September 26, 2026 at 7:30 PM. | Update only with verified newer event facts. |
 | Admission | The show is free; no ticket required; RSVP/update-list is appreciated where stated. | Do not imply paid admission for the show. |
 | Camping | Camping is $10 per night per person for one night before and one night after the show; electric hookup is $35 per person. | Do not invent detailed campground policy beyond this without verification. |
 | Location | Cycle Moore Legacy, 11075 US 31 South, Interlochen, MI 49643. | Keep as selectable/readable text. |
@@ -62,7 +62,7 @@ The homepage displays approved generated image backgrounds. Supporting routes no
 ## Supporting page canon
 | Route | Current public job |
 | --- | --- |
-| `/july-25-2026/` | Complete Free Show page for verified event facts, camping cost separation, parking, safety, and update-list conversion. |
+| `/september-26-2026/` | Complete Free Show page for verified event facts, camping cost separation, parking, safety, and update-list conversion. |
 | `/what-is-just-one-kiss/` | Complete Ritual page describing the Gene Simmons tribute experience from fan love and passion while preserving the approved live-production stage-and-lighting baseline. |
 | `/spectacle/` | Complete capability-oriented Spectacle page presenting the cue-driven, travel-minded show package and Cycle Moore Legacy pavilion/campground appeal through subtle venue-attractive public copy. |
 | `/directions/` | Complete arrival page with Cycle Moore Legacy address, phone, Google Maps outbound link, embedded zoom/pan map, camping, parking, and access-routing notes. |

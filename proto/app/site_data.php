@@ -7,8 +7,8 @@ require_once __DIR__ . '/language.php';
 function site_pages(): array
 {
     return [
-        '/' => ['label' => 'Home', 'title' => 'Just One KISS — Free Show Updates', 'nav' => false, 'summary' => 'Main landing page for the July 25, 2026 free show in Interlochen on US 31.'],
-        '/july-25-2026/' => ['label' => lang_text('landing.nav.free_show', 'Free Show'), 'title' => 'July 25, 2026 Free Show', 'nav' => true, 'summary' => 'Date, free admission, event updates, and safety notes.'],
+        '/' => ['label' => 'Home', 'title' => 'Just One KISS — Free Show Updates', 'nav' => false, 'summary' => 'Main landing page for the free show on September 26, 2026 at 7:30 PM in Interlochen on US 31.'],
+        '/september-26-2026/' => ['label' => lang_text('landing.nav.free_show', 'Free Show'), 'title' => 'September 26, 2026 at 7:30 PM Free Show', 'nav' => true, 'summary' => 'Date, time, free admission, event updates, and safety notes.'],
         '/what-is-just-one-kiss/' => ['label' => lang_text('landing.nav.ritual', 'The Ritual'), 'title' => 'What Is Just One KISS?', 'nav' => true, 'summary' => 'About the independent theatrical tribute show.'],
         '/spectacle/' => ['label' => lang_text('landing.nav.spectacle', 'Spectacle'), 'title' => 'The Spectacle', 'nav' => true, 'summary' => 'Lights, projection, fog, strobes, costume energy, and stage attitude.'],
         '/vault/' => ['label' => 'Vault', 'title' => 'Fan Vault', 'nav' => false, 'summary' => 'Road-case relic energy for approved future photos and media.'],

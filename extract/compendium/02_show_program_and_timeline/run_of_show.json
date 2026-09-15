@@ -30,7 +30,7 @@
     {
       "source_id": "source:extract_compendium_01_project_event_and_people_event_schedule_plan_json",
       "path": "extract/compendium/01_project_event_and_people/event_schedule_plan.json",
-      "sha256": "77051a018a1e104978915f67feab96753230ab7a81cc9a54fab7a0f3a1af26c9",
+      "sha256": "f1d74396c999e0d16069d4e444fde9d447f8a8d259bfdf843ecab9aef3e83d7b",
       "locator": "controlled data and governance",
       "extraction_method": "SHA-256 plus targeted UTF-8/WordprocessingML extraction and manual reconciliation",
       "stated_use": "Referenced schedule or show authority"

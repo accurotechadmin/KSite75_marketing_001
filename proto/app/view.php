@@ -237,7 +237,7 @@ function render_footer(bool $includeEventInformation = true, ?array $footerCopy 
         render_event_information();
     }
     $summaryToken = $footerCopy['summary_token'] ?? 'landing.footer.summary';
-    $summaryFallback = $footerCopy['summary'] ?? 'Just One KISS · July 25, 2026 · Free show · Interlochen on US 31. Independent theatrical tribute presentation; no official affiliation, sponsorship, authorization, or endorsement is claimed.';
+    $summaryFallback = $footerCopy['summary'] ?? 'Just One KISS · September 26, 2026 at 7:30 PM · Free show · Interlochen on US 31. Independent theatrical tribute presentation; no official affiliation, sponsorship, authorization, or endorsement is claimed.';
     $summaryPrefix = $footerCopy['summary_prefix'] ?? 'Just One KISS';
     $detailsToken = $footerCopy['details_token'] ?? 'landing.footer.event_safety';
     $detailsFallback = $footerCopy['details'] ?? 'You wanted the best? You got the best. Cycle Moore Legacy, 11075 US 31 South, Interlochen, MI 49643. Parking is outside the gate, just off US-31. Overflow and handicap parking available. Fog, loud sound, bright lights, and flashing patterns may be used.';
@@ -248,7 +248,7 @@ function render_footer(bool $includeEventInformation = true, ?array $footerCopy 
     <p><?= lang_editable($detailsToken, $detailsFallback) ?></p>
   </div>
 </footer>
-<div class="mobile-cta"><a class="button button--fire" href="<?= e(page_url('/july-25-2026/')) ?>#updates"><?= lang_editable('landing.mobile.cta', 'Join the July 25 update list') ?></a></div>
+<div class="mobile-cta"><a class="button button--fire" href="<?= e(page_url('/september-26-2026/')) ?>#updates"><?= lang_editable('landing.mobile.cta', 'Join the September 26 update list') ?></a></div>
 
 <?php if (language_admin_is_logged_in()): ?>
 <style data-inline-admin-language>
@@ -264,7 +264,7 @@ function render_footer(bool $includeEventInformation = true, ?array $footerCopy 
 </style>
 <script>window.JOK_INLINE_LANGUAGE_ADMIN = <?= lang_inline_admin_payload() ?>;</script>
 <?php endif; ?>
-<script>window.JOK_LANGUAGE = <?= lang_json_for_js(['landing.countdown.live_message' => 'The July 25 signal is live — check event updates.', 'landing.countdown.active_template' => '{days} days · {hours} hrs · {minutes} min · {seconds} sec to go!', 'landing.form.enhanced_submit_status' => 'Checking the signal…']) ?>;</script>
+<script>window.JOK_LANGUAGE = <?= lang_json_for_js(['landing.countdown.live_message' => 'The September 26 signal is live — check event updates.', 'landing.countdown.active_template' => '{days} days · {hours} hrs · {minutes} min · {seconds} sec to go!', 'landing.form.enhanced_submit_status' => 'Checking the signal…']) ?>;</script>
 <script src="<?= e(rel_url('assets/js/site.js')) ?>"></script>
 <?php render_inline_asset('assets/js/site.js', 'script'); ?>
 </body>
@@ -292,7 +292,7 @@ function render_lead_form(string $csrf): void
       </details>
       <p class="form-help"><?= lang_editable('landing.form.lead.help', 'No spam. Safety and access notes are folded into the main event, arrival, media, and Fan Vault drops.') ?></p>
       <label class="consent consent--required"><input type="checkbox" name="consent" required> <?= lang_editable('landing.form.lead.consent', 'Required: I agree to receive Just One KISS show updates.') ?></label>
-      <button class="button button--fire" type="submit" data-track="lead-submit"><?= lang_editable('landing.form.lead.submit', 'Get the July 25 drop') ?></button>
+      <button class="button button--fire" type="submit" data-track="lead-submit"><?= lang_editable('landing.form.lead.submit', 'Get the September 26 drop') ?></button>
       <p class="form-status" data-form-status aria-live="polite"></p>
     </form><?php
 }

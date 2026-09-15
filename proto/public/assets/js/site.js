@@ -52,11 +52,11 @@
 
 
   document.querySelectorAll('[data-countdown]').forEach((node) => {
-    const target = new Date(node.dataset.targetDate || '2026-07-25T20:00:00-04:00').getTime();
+    const target = new Date(node.dataset.targetDate || '2026-09-26T19:30:00-04:00').getTime();
     const render = () => {
       const diff = target - Date.now();
       if (diff <= 0) {
-        node.textContent = languageText('landing.countdown.live_message', 'The July 25 signal is live — check event updates.');
+        node.textContent = languageText('landing.countdown.live_message', 'The September 26 signal is live — check event updates.');
         return;
       }
       const days = Math.floor(diff / 86400000);
