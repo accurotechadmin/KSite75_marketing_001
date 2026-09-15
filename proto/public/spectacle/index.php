@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 $csrf = csrf_token();
-render_header(lang_text('pages.spectacle.meta.v3.title', 'Just One KISS — The Spectacle'), lang_text('pages.spectacle.meta.v3.description', 'A free July 25, 2026 fan gathering at Cycle Moore Legacy for people who love KISS attitude, shared songs, campground energy, and a night worth showing up for.'));
+render_header(lang_text('pages.spectacle.meta.v3.title', 'Just One KISS — The Spectacle'), lang_text('pages.spectacle.meta.v3.description', 'A free fan gathering on September 26, 2026 at 7:30 PM at Cycle Moore Legacy for people who love KISS attitude, shared songs, campground energy, and a night worth showing up for.'));
 render_notice($formResult);
 ?>
 <main id="main">
@@ -28,8 +28,8 @@ render_notice($formResult);
   <section class="subhero section-shell" aria-labelledby="page-title">
     <p class="eyebrow"><?= lang_editable('pages.spectacle.v3.hero.eyebrow', 'For the fans who show up loud') ?></p>
     <h1 id="page-title"><?= lang_editable('pages.spectacle.v3.hero.title', 'The Spectacle') ?></h1>
-    <p class="hero__lede"><?= lang_editable('pages.spectacle.v3.hero.lede', 'Some things are better left for show day. This page is not here to explain the surprise. It is here to say that July 25 is for the people who still love the size, attitude, and shared mythology of KISS.') ?></p>
-    <div class="cta-row"><a class="button button--fire" href="<?= e(page_url('/july-25-2026/')) ?>"><?= lang_editable('pages.spectacle.v3.cta.event', 'See the free show') ?></a><a class="button button--chrome" href="<?= e(page_url('/directions/')) ?>"><?= lang_editable('pages.spectacle.v3.cta.directions', 'Plan the arrival') ?></a></div>
+    <p class="hero__lede"><?= lang_editable('pages.spectacle.v3.hero.lede', 'Some things are better left for show day. This page is not here to explain the surprise. It is here to say that September 26 is for the people who still love the size, attitude, and shared mythology of KISS.') ?></p>
+    <div class="cta-row"><a class="button button--fire" href="<?= e(page_url('/september-26-2026/')) ?>"><?= lang_editable('pages.spectacle.v3.cta.event', 'See the free show') ?></a><a class="button button--chrome" href="<?= e(page_url('/directions/')) ?>"><?= lang_editable('pages.spectacle.v3.cta.directions', 'Plan the arrival') ?></a></div>
     <?php render_page_image('spectacle-lighting-rig.webp', lang_text('pages.spectacle.image.1.alt', 'Hero: KISS fans gathering near the pavilion before the show.')); ?>
   </section>
 
@@ -62,9 +62,9 @@ render_notice($formResult);
   <section class="section-shell date-card" aria-labelledby="mystery-title">
     <p class="eyebrow"><?= lang_editable('pages.spectacle.v3.mystery.eyebrow', 'What will happen?') ?></p>
     <h2 id="mystery-title"><?= lang_editable('pages.spectacle.v3.mystery.title', 'Show up and find out.') ?></h2>
-    <p class="section-lede"><?= lang_editable('pages.spectacle.v3.mystery.body', 'The homepage says enough: free show, July 25, Cycle Moore Legacy, Interlochen on US 31, big fan energy. The rest belongs to the people who are there when it happens.') ?></p>
+    <p class="section-lede"><?= lang_editable('pages.spectacle.v3.mystery.body', 'The homepage says enough: free show, September 26, Cycle Moore Legacy, Interlochen on US 31, big fan energy. The rest belongs to the people who are there when it happens.') ?></p>
     <?php render_page_image('fog-strobe-atmosphere.webp', lang_text('pages.spectacle.image.3.alt', 'Mystery: fans walking toward the gathering with the pavilion ahead.')); ?>
   </section>
   <?php render_page_section_slot('/spectacle/', 'after_page'); ?>
 </main>
-<?php render_footer(false, ['summary_token' => 'pages.v2.footer.summary', 'summary' => 'Just One KISS · July 25, 2026 · Free show · Interlochen on US 31.', 'summary_prefix' => 'Just One KISS', 'details_token' => 'pages.v2.footer.details']); ?>
+<?php render_footer(false, ['summary_token' => 'pages.v2.footer.summary', 'summary' => 'Just One KISS · September 26, 2026 at 7:30 PM · Free show · Interlochen on US 31.', 'summary_prefix' => 'Just One KISS', 'details_token' => 'pages.v2.footer.details']); ?>

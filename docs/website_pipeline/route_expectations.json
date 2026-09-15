@@ -9,7 +9,7 @@
     {"id":"route.directions","surface":"public","status":200,"content_type":"text/html","body_contains":"<!doctype html"},
     {"id":"route.faq-disclaimer","surface":"public","status":200,"content_type":"text/html","body_contains":"<!doctype html"},
     {"id":"route.home","surface":"public","status":200,"content_type":"text/html","body_contains":"<!doctype html"},
-    {"id":"route.july-25-2026","surface":"public","status":200,"content_type":"text/html","body_contains":"<!doctype html"},
+    {"id":"route.september-26-2026","surface":"public","status":200,"content_type":"text/html","body_contains":"<!doctype html"},
     {"id":"route.preserve-backup","surface":"owner_tool","status":200,"content_type":"text/html","body_contains":"<!doctype html"},
     {"id":"route.site-layers.behavior","surface":"owner_tool","status":200,"content_type":"text/html","body_contains":"<!doctype html"},
     {"id":"route.site-layers.copy","surface":"owner_tool","status":200,"content_type":"text/html","body_contains":"<!doctype html"},

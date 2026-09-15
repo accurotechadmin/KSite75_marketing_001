@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 $csrf = csrf_token();
-render_header(lang_text('pages.directions.meta.v3.title', 'Just One KISS — Directions to Cycle Moore Legacy'), lang_text('pages.directions.meta.v3.description', 'Get to Cycle Moore Legacy at 11075 US 31 South, Interlochen, MI 49643 for the free July 25, 2026 Just One KISS show.'));
+render_header(lang_text('pages.directions.meta.v3.title', 'Just One KISS — Directions to Cycle Moore Legacy'), lang_text('pages.directions.meta.v3.description', 'Get to Cycle Moore Legacy at 11075 US 31 South, Interlochen, MI 49643 for the free September 26, 2026 at 7:30 PM Just One KISS show.'));
 render_notice($formResult);
 $mapsUrl = lang_text('pages.directions.maps.url', 'https://www.google.com/maps/place/Cycle+Moore+Legacy/@44.6584619,-85.801296,17z/data=!3m1!4b1!4m6!3m5!1s0x881e38525e1b347d:0x6e182699c27f377b!8m2!3d44.6584619!4d-85.7987211!16s%2Fg%2F11cn3p0gst?entry=ttu');
 $embedUrl = lang_text('pages.directions.maps.embed_url', 'https://www.google.com/maps?q=Cycle%20Moore%20Legacy%2C%2011075%20US%2031%20South%2C%20Interlochen%2C%20MI%2049643&output=embed');
@@ -49,7 +49,7 @@ $embedUrl = lang_text('pages.directions.maps.embed_url', 'https://www.google.com
       <article><span class="proof-badge"><?= lang_editable('pages.directions.v3.card.1.badge', '01') ?></span><h3><?= lang_editable('pages.directions.v3.card.1.title', 'The road') ?></h3><p><?= lang_editable('pages.directions.v3.card.1.body', 'Cycle Moore Legacy sits on US 31 in Interlochen. Build in enough time to arrive relaxed, look around, and settle into the crowd before the night gets moving.') ?></p></article>
       <article><span class="proof-badge"><?= lang_editable('pages.directions.v3.card.2.badge', '02') ?></span><h3><?= lang_editable('pages.directions.v3.card.2.title', 'The parking') ?></h3><p><?= lang_editable('pages.directions.v3.card.2.body', 'Parking is outside the gate. Overflow and handicap parking available so fans can focus on finding friends and getting settled.') ?></p></article>
       <article><span class="proof-badge"><?= lang_editable('pages.directions.v3.card.3.badge', '03') ?></span><h3><?= lang_editable('pages.directions.v3.card.3.title', 'The camping') ?></h3><p><?= lang_editable('pages.directions.v3.card.3.body') ?></p></article>
-      <article><span class="proof-badge"><?= lang_editable('pages.directions.v3.card.4.badge', '04') ?></span><h3><?= lang_editable('pages.directions.v3.card.4.title', 'The updates') ?></h3><p><?= lang_editable('pages.directions.v3.card.4.body', 'Join the update list for timing reminders, arrival notes, parking details, camping notes, and the latest event-day posts as July 25 gets closer.') ?></p></article>
+      <article><span class="proof-badge"><?= lang_editable('pages.directions.v3.card.4.badge', '04') ?></span><h3><?= lang_editable('pages.directions.v3.card.4.title', 'The updates') ?></h3><p><?= lang_editable('pages.directions.v3.card.4.body', 'Join the update list for timing reminders, arrival notes, parking details, camping notes, and the latest event-day posts as September 26 gets closer.') ?></p></article>
     </div>
   </section>
 
@@ -62,4 +62,4 @@ $embedUrl = lang_text('pages.directions.maps.embed_url', 'https://www.google.com
   </section>
   <?php render_page_section_slot('/directions/', 'after_page'); ?>
 </main>
-<?php render_footer(false, ['summary_token' => 'pages.v2.footer.summary', 'summary' => 'Just One KISS · July 25, 2026 · Free show · Interlochen on US 31.', 'summary_prefix' => 'Just One KISS', 'details_token' => 'pages.v2.footer.details']); ?>
+<?php render_footer(false, ['summary_token' => 'pages.v2.footer.summary', 'summary' => 'Just One KISS · September 26, 2026 at 7:30 PM · Free show · Interlochen on US 31.', 'summary_prefix' => 'Just One KISS', 'details_token' => 'pages.v2.footer.details']); ?>

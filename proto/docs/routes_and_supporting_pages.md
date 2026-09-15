@@ -7,7 +7,7 @@ The standalone site implements these public PHP routes with shared header/footer
 | Route | Public job | Status |
 | --- | --- | --- |
 | `/` | Main landing page with free show hero, free-vs-camping-cost event details, spectacle promise, update form, safety/disclaimer, six-card fan-interaction Fan Vault, and shared bottom Event information. | Implemented |
-| `/july-25-2026/` | Complete Free Show page with verified July 25 facts, free admission, camping-rate note, parking, safety notice, and update form. | Built out |
+| `/september-26-2026/` | Complete Free Show page with verified September 26 facts, free admission, camping-rate note, parking, safety notice, and update form. | Built out |
 | `/directions/` | Complete Interlochen / US 31 arrival page with Cycle Moore Legacy address, phone, Google Maps link, embedded zoom/pan map, camping, parking, and access-routing notes. | Built out |
 | `/what-is-just-one-kiss/` | Complete Ritual page explaining Just One KISS from a fan-love point of view while preserving independent-tribute, approved live-production, stage, lighting, and public-ready framing. | Built out |
 | `/spectacle/` | Complete capability-oriented Spectacle page positioning the cue-driven show package and Cycle Moore Legacy pavilion/campground atmosphere through subtle travel-minded and venue-attractive copy. | Built out |

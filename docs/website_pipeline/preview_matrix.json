@@ -10,7 +10,7 @@
   },
   "required_route_modes": ["desktop","mobile-reduced","desktop-nojs"],
   "routes": [
-    "route.contact","route.contact-press","route.directions","route.faq-disclaimer","route.home","route.july-25-2026","route.spectacle","route.technical","route.vault","route.video","route.what-is-just-one-kiss"
+    "route.contact","route.contact-press","route.directions","route.faq-disclaimer","route.home","route.september-26-2026","route.spectacle","route.technical","route.vault","route.video","route.what-is-just-one-kiss"
   ],
   "contracts": {"console_errors":0,"submit_forms":false,"navigation":"same-origin GET only","screenshot_pattern":"{route_id}--{mode}.png","metadata_pattern":"{route_id}--{mode}.json","teardown":"browser contexts, browser, and owned PHP server must close"}
 }

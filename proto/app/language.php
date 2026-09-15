@@ -96,7 +96,7 @@ function language_default_entry(string $token, string $text, string $source = 'r
             'video' => '/video/',
             'technical' => '/technical/',
             'contact' => '/contact/',
-            'show' => '/july-25-2026/',
+            'show' => '/september-26-2026/',
         ];
         $route = $routeMap[$page] ?? '/';
     }
@@ -123,7 +123,7 @@ function language_default_entry(string $token, string $text, string $source = 'r
         'review' => [
             'rights_safe' => true,
             'safety_related' => str_contains($text, 'fog') || str_contains($text, 'strobe') || str_contains($text, 'safety'),
-            'verified_fact' => str_contains($text, 'July 25, 2026') || str_contains($text, 'Cycle Moore') || str_contains($text, 'US 31') || str_contains($text, '$10'),
+            'verified_fact' => str_contains($text, 'September 26, 2026') || str_contains($text, 'Cycle Moore') || str_contains($text, 'US 31') || str_contains($text, '$10'),
             'needs_owner_review' => false,
         ],
         'canonical_text_key' => language_text_key($text),

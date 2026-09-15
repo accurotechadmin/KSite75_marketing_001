@@ -54,7 +54,7 @@
     {
       "source_id": "source:proto_docs_language_json",
       "path": "proto/docs/language.json",
-      "sha256": "b63aa4a5e4feb97c6dce247a7408de18950234620ec75695c509e0a60048c31f",
+      "sha256": "5253a6dd21ec9270940307da8be664f5e5f4cbe9687ebf8d7facb1ae9f955933",
       "locator": "event, eventInfo, contact and logistics candidates",
       "extraction_method": "UTF-8 parse and targeted manual reconciliation",
       "stated_use": "Unverified public-language candidates; no fact promoted"
@@ -62,7 +62,7 @@
     {
       "source_id": "source:proto_app_site_data_php",
       "path": "proto/app/site_data.php",
-      "sha256": "cdb97873fa5326319dae60d1c09f1e89ecca9eb14fe7c3f9232cf97fba0d2979",
+      "sha256": "2978c1566dab24f742088e7448cafa24d665e43d4a175905fca4dad7fe7f2b5c",
       "locator": "event data and public fact candidates",
       "extraction_method": "UTF-8 parse and targeted manual reconciliation",
       "stated_use": "Runtime candidate evidence; no fact promoted"
